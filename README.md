@@ -67,7 +67,7 @@
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: [Mohamed Aziz Wazzen](https://www.linkedin.com/in/mohamed-aziz-wazzen-b8a7a9273/)
+- 💼 LinkedIn: [Mohamed Aziz Wazzen](https://www.linkedin.com/in/mohamed-aziz-wazzen/)
 - 📧 Email: mohamedazizwazzen@gmail.com
 
 ---
